@@ -1,7 +1,23 @@
-</header>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+    <title> Unemployment and the Meaning of Leisure Time </time>
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header>
+    <h1>Stock & Score Blog</h1>
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../projects.html">Projects</a>
+      <a href="../contact.html">Contact</a>
+    </nav>
+  </header>
 
   <main>
-    <h2> Unemployment and the Meaning of Leisure Time </h2>
+  <h2> Unemployment and the Meaning of Leisure Time </h2>
     <p class="date">Published on: 09 September 2024</p>
 <p>
 Being involuntarily unemployed does not really mean not doing anything at all productive. Applying for jobs, scaling up skills, interview preparation, side projects, stress, mental load, and other juggling consume time. In economics, “leisure” means time not spent in paid work. Measured non-work time is higher for the unemployed, but experienced or freely chosen leisure may be lower than it appears.
@@ -32,8 +48,14 @@ This distinction highlights an important economic and psychological insight: the
 </p>
 
 <p>    <strong>Read the full article on Substack:</strong><br>  
-<a href="https://thealgorithmiceconomist.substack.com/p/unemployment-and-the-meaning-of-leisure">   
-Unemployment and the Meaning of Leisure Time    </a>  </p>
+<a> href="https://thealgorithmiceconomist.substack.com/p/unemployment-and-the-meaning-of-leisure?r=806mfm&utm_campaign=post-expanded-share&utm_medium=web" target="_blank">   
+Unemployment and the Meaning of Leisure Time  
+</a> 
+ 
+</p>
 </main>  
 <footer> 
 <p>© Stock & Score</p>
+ </footer>
+</body>
+</html>
